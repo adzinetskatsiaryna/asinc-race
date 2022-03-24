@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/asinc-race/static/css/main.1f43f6cf.chunk.css",
+    "main.js": "/asinc-race/static/js/main.e364c6cd.chunk.js",
+    "main.js.map": "/asinc-race/static/js/main.e364c6cd.chunk.js.map",
+    "runtime-main.js": "/asinc-race/static/js/runtime-main.fc9d730b.js",
+    "runtime-main.js.map": "/asinc-race/static/js/runtime-main.fc9d730b.js.map",
+    "static/js/2.9cbfa5f5.chunk.js": "/asinc-race/static/js/2.9cbfa5f5.chunk.js",
+    "static/js/2.9cbfa5f5.chunk.js.map": "/asinc-race/static/js/2.9cbfa5f5.chunk.js.map",
+    "index.html": "/asinc-race/index.html",
+    "static/css/main.1f43f6cf.chunk.css.map": "/asinc-race/static/css/main.1f43f6cf.chunk.css.map",
+    "static/js/2.9cbfa5f5.chunk.js.LICENSE.txt": "/asinc-race/static/js/2.9cbfa5f5.chunk.js.LICENSE.txt",
+    "static/media/down-arrow.f16dde91.svg": "/asinc-race/static/media/down-arrow.f16dde91.svg",
+    "static/media/car.module.css": "/asinc-race/static/media/flag.6efa96f4.png",
+    "static/media/up-arrow.89bbc5ac.svg": "/asinc-race/static/media/up-arrow.89bbc5ac.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc9d730b.js",
+    "static/js/2.9cbfa5f5.chunk.js",
+    "static/css/main.1f43f6cf.chunk.css",
+    "static/js/main.e364c6cd.chunk.js"
+  ]
+}
