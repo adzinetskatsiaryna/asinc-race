@@ -1,0 +1,29 @@
+header{
+    background-color: bisque;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+}
+
+.nav{
+    height: 100%;
+    max-width: 240px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+.btnGarage,
+.btnWinner{
+   width: 150px;
+    padding: 5px;
+    height: 25px;
+    background-color: aquamarine;
+    margin-right: 20px;
+    border: 1px solid #090407;
+    border-radius: 5px;
+    color: #383838;
+}
+.btnGarage.activeLink,
+.btnWinner.activeLink{
+    background-color: #50d29c;
+}

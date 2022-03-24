@@ -1,0 +1,39 @@
+
+table{
+    width: 500px;
+    margin-top: 25px;
+    border: 1px solid grey;
+    border-collapse: collapse;
+    margin-bottom: 100px;
+
+}
+thead{
+    background-color: cadetblue;
+}
+th {
+    border: 1px solid grey;
+    cursor: pointer;
+}
+/* границы ячеек тела таблицы */
+td {
+    border: 1px solid grey;
+    font-size: 13px;
+    padding: 5px 10px;
+}
+caption{
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+.selectedPage{
+    font-weight: bold;
+    background-color: #50d29c;
+}
+.carPlace {
+    position: relative;
+    width: 30px;
+}
+.arrow{
+    height: 12px;
+}
+
+

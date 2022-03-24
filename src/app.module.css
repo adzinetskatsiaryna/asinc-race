@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    background-color: #929f9066;
+}
+li, a {
+    list-style: none;
+    text-decoration: none;
+}
+.mainContainer{
+    margin:0 5px 10px 20px;
+}
+button{
+    cursor: pointer;
+}

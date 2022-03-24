@@ -1,0 +1,15 @@
+.selectedPage{
+    font-weight: bold;
+    background-color: #50d29c;
+}
+.showWinnerPopup{
+    margin: 0 auto;
+    width: 563px;
+    height: 55px;
+    font-size: 25px;
+    font-family: Algerian;
+    position: absolute;
+    top: 327px;
+    left: 150px;
+    color: blue;
+}
